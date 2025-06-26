@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AttahRahman
 - 👀 I’m interested in Front End Development 
 - 🌱 I currently work with Bootstrap and Wordpress_Elementor
-- 💞️ I’m looking to collaborate on any Wed deveopment project
+- 💞️ I’m looking to collaborate on any Web deveopment project
 - 📫 How to reach me works.rdesigns@gmail.com
 
 <!---
